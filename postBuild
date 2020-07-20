@@ -1,1 +1,1 @@
-export PATH="/usr/pkg:$PATH"
+export PATH="/usr/games:$PATH"
