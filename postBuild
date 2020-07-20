@@ -1,6 +1,6 @@
 export LD_LIBRARY_PATH=/usr/local/lib/
 
-cd bindings/python
+bindings/python
 
 python setup.py build
 
