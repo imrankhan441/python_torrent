@@ -1,1 +1,5 @@
+add-apt-repository ppa:qbittorrent-team/qbittorrent-stable
+
 python3-libtorrent
+qbittorrent
+qbittorrent-no
