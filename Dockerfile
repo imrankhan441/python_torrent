@@ -17,4 +17,4 @@ WORKDIR ${HOME}
 USER ${USER}
 
 
-RUN apt install python3-libtorrent
+RUN sudo apt install python3-libtorrent
