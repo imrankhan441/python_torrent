@@ -15,6 +15,3 @@ RUN adduser --disabled-password \
     ${NB_USER}
 WORKDIR ${HOME}
 USER ${USER}
-
-
-RUN sudo apt install python3-libtorrent
