@@ -1,3 +1,0 @@
-python3-libtorrent
-p7zip-full
-qbittorrent
